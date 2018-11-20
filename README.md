@@ -1,3 +1,12 @@
 # Hello-world
-Hello world in C
+
 Author Fierro Juan
+
+
+My code, is going to be here.
+
+#include<stdio.h>
+main()
+{
+  printf("Hello world")
+}
